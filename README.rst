@@ -1,6 +1,11 @@
 NEAT (NEural Analysis Toolkit)
 ==============================
 
+Deprecation warning
+-------------------
+
+This version of NEAT is not actively supported. Please refer to `our main repository <https://github.com/WillemWybo/NEAT>`_ for the version of NEAT that is actively developed.
+
 Introduction
 ------------
 
